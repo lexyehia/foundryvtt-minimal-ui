@@ -1,13 +1,13 @@
 {
 	"name": "minimal-ui",
 	"title": "Minimal UI",
-	"author": "JeansenVaars#2857",
+	"author": "hylencorp",
 	"description": "Minimalistic UI aggressivelly hides or shrinks non-essential UI hud elements from the screen.",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"minimumCoreVersion": "0.7.9",
 	"compatibleCoreVersion": "0.7.9",
 	"styles": ["/css/override.css"],
-	"url": "https://github.com/saif-ellafi/foundryvtt-minimal-ui.git",
-	"manifest": "https://raw.githubusercontent.com/saif-ellafi/foundryvtt-minimal-ui/main/module.json",
-	"download": "https://github.com/saif-ellafi/foundryvtt-minimal-ui/archive/main.zip"
+	"url": "https://github.com/lexyehia/foundryvtt-minimal-ui.git",
+	"manifest": "https://raw.githubusercontent.com/lexyehia/foundryvtt-minimal-ui/main/module.json",
+	"download": "https://github.com/lexyehia/foundryvtt-minimal-ui/archive/main.zip"
 }
