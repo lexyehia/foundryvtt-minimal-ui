@@ -3,7 +3,7 @@
 	"title": "Minimal UI",
 	"author": "hylencorp",
 	"description": "Minimalistic UI aggressivelly hides or shrinks non-essential UI hud elements from the screen.",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"minimumCoreVersion": "0.7.9",
 	"compatibleCoreVersion": "0.7.9",
 	"styles": ["/css/override.css"],
